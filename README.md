@@ -5,7 +5,6 @@ Diaconu Oana-Ruxandra - 331CC
 
 ![image](diagrama_bloc.png)
 
-## BOM - Bill of Materials
 
 ## BOM – Bill of Materials
 
